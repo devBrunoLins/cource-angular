@@ -1,4 +1,4 @@
-# Ng7805
+# Angular 6 - Caelum
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
